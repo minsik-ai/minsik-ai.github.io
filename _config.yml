@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Minsik Oh"
 title_separator          : "-"
 name                     : &name "Minsik Oh"
-description              : &description "Machine Learning Engineer at Amazon"
+description              : &description "Machine Learning Researcher"
 url                      : https://oms-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oms-ai/oms-ai.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Minsik Oh"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Machine Learning Engineer at Amazon"
+  location         : "Seattle"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cmo1PL4AAAAJ&hl=en"
   email            : devtrentoh@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
