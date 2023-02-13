@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a Machine Learning Engineer from Amazon. In addition, I perform independent NLP research with large language models. My areas of interest are representation learning, dialogue research and text generation.
+Hello! I'm a Machine Learning Engineer from Amazon. My areas of interest are representation learning, dialogue research and text generation.
