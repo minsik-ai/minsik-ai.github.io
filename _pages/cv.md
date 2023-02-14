@@ -9,51 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - : Machine Learning Engineer
+  * Amazon
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2019: Software Engineer Project Lead
+  * Hyperconnect (acquired by Match Group)
+
+* 2016 - 2017: Software Engineer
+  * AKA Intelligence
   
+Education
+======
+* Physics & Computer Science, Korea Advanced Institute of Science and Technology (KAIST)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning / Machine Learning
+  * PyTorch
+  * Scikit-Learn
+* Natural Language Processing (NLP)
+  * HuggingFace
+  * SpaCy
+* Scientific Computing
+  * Spark
+  * Numpy
+  * Pandas
+* Software Engineering
+  * Amazon Web Services (AWS)
+  * Python
+  * Java
+  * Scala / Kotlin
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ARR (ACL Rolling Review) Reviewer
+* SemEval Reviewer
+* AMLC Reviewer
