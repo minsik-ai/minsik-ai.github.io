@@ -52,4 +52,4 @@ Service and leadership
 ======
 * ARR (ACL Rolling Review) Reviewer
 * SemEval Reviewer
-* AMLC Reviewer
+* AMLC (Amazon Machine Learning Conference) Reviewer
