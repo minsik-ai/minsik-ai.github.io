@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a Machine Learning Engineer from Amazon, with tenure in Alexa, AWS AI teams.
+Hello, I'm a Machine Learning Engineer from Amazon, with tenure in Alexa, AWS AI teams.
 
 My areas of interest are representation learning, dialogue research and text generation with Large Language Models.
 
