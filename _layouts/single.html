@@ -44,10 +44,12 @@ layout: default
         
              
         {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
+          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>[Paper]</u></a>
         {% endif %}
+        {% if page.posterurl %}
+            <a href="{{ page.posterurl }}"><u>[Poster]</u></a>
+        {% endif %}
+        </p>
     
         </header>
       {% endunless %}
