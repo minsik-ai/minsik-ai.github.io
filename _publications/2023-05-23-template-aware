@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-05-23-template-aware
 excerpt: ''
 date: 2023-05-23
-venue: 'Arxiv'
+venue: 'Pre-print, Arxiv'
 paperurl: 'https://arxiv.org/pdf/2305.14299.pdf'
 citation: 'Minsik Oh, Jiwei Li, Guoyin Wang (2023). &quot;TaDSE: Template-aware Dialogue Sentence Embeddings.&quot; <i>Arxiv.</i>.'
 ---
