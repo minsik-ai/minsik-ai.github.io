@@ -83,7 +83,7 @@ author:
   name             : "Minsik Oh"
   avatar           : "오민식님_여권사이즈.jpg"
   bio              : "Machine Learning Researcher"
-  location         : "Seattle"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cmo1PL4AAAAJ&hl=en"
@@ -105,11 +105,11 @@ author:
   linkedin         : trent-amz
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       : msk-86345165
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "dev_trent"
+  twitter          : "minsik_nlp"
   vine             :
   weibo            :
   xing             :
