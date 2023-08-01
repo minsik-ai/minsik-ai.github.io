@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * 2020 - : Machine Learning Engineer
-  * Amazon
+  * Amazon, AWS
 
 * 2017 - 2019: Software Engineer Project Lead
   * Hyperconnect (acquired by Match Group)
