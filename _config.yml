@@ -11,9 +11,9 @@ title                    : "Minsik Oh"
 title_separator          : "-"
 name                     : &name "Minsik Oh"
 description              : &description "Machine Learning Researcher"
-url                      : https://oms-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://minsik-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "oms-ai/oms-ai.github.io"
+repository               : "minsik-ai/minsik-ai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "oms-ai"
+  github           : "minsik-ai"
   google_plus      :
   keybase          :
   instagram        :
