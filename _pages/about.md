@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm a Machine Learning Engineer from Amazon, with tenure in Alexa, AWS AI teams.
+Hello, I'm incoming Stanford Masters of Computer Science student. 
 
 My areas of interest are representation learning, information retrieval, dialogue research and text generation with Large Language Models.
+
+Before coming to Stanford, I have experience in Alexa, AWS AI teams.
 
 I personally organize a weekly NLP study group for Korean industry professionals and upcoming researchers.
 Please feel free to shoot an email if you'd like to join!
