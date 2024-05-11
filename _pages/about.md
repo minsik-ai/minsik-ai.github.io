@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm incoming Stanford Masters of Computer Science student. 
+Hello, I'm an incoming Stanford Masters of Computer Science student.
 
 My areas of interest are representation learning, information retrieval, dialogue research and text generation with Large Language Models.
 
