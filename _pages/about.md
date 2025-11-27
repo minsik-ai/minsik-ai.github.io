@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm an incoming Stanford Masters of Computer Science student.
+Hello, I'm a 2nd year Stanford Masters of Computer Science student.
 
-My areas of interest are representation learning, information retrieval, dialogue research and text generation with Large Language Models.
+My areas of interest are representation learning, reinforcement learning, information retrieval and text generation with Large Language Models.
 
 Before coming to Stanford, I have experience in Alexa, AWS AI teams.
 
