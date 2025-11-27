@@ -1,7 +1,7 @@
 ---
 title: "TaDSE: Template-aware Dialogue Sentence Embeddings"
 collection: publications
-permalink: /publication/2023-05-23-template-aware
+permalink: /publication/2026-07-02-template-aware
 excerpt: ''
 date: 2026-07-02
 venue: 'ACL (to appear)'
