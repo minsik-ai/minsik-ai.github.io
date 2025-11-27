@@ -6,5 +6,5 @@ excerpt: ''
 date: 2022-07-28
 venue: 'The 1st Workshop on Customized Chat Grounding Persona and Knowledge, COLING'
 paperurl: 'https://arxiv.org/pdf/2207.13919.pdf'
-citation: 'Minsik Oh, Minsang Kim.'
+citation: 'Minsik Oh*, Minsang Kim*.'
 ---
