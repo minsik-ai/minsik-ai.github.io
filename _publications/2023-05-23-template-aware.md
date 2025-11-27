@@ -3,8 +3,8 @@ title: "TaDSE: Template-aware Dialogue Sentence Embeddings"
 collection: publications
 permalink: /publication/2023-05-23-template-aware
 excerpt: ''
-date: 2023-05-23
-venue: 'NAACL (in review)'
+date: 2026-07-02
+venue: 'ACL (to appear)'
 paperurl: 'https://arxiv.org/abs/2305.14299'
-citation: 'Minsik Oh, Jiwei Li, Guoyin Wang (2023). &quot;TaDSE: Template-aware Dialogue Sentence Embeddings.&quot; <i>Arxiv.</i>.'
+citation: 'Minsik Oh, Jiwei Li, Guoyin Wang (2026). &quot;TaDSE: Template-aware Dialogue Sentence Embeddings.&quot; <i>Arxiv.</i>.'
 ---
