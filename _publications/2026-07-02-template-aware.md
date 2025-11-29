@@ -1,5 +1,5 @@
 ---
-title: "TaDSE: Template-aware Dialogue Sentence Embeddings"
+title: "Template-assisted Contrastive Learning of Task-oriented Dialogue Sentence Embeddings"
 collection: publications
 permalink: /publication/2026-07-02-template-aware
 excerpt: ''
