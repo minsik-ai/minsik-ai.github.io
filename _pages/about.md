@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I'm a 2nd year Stanford Masters of Computer Science student.
 
-My areas of interest are representation learning, reinforcement learning, information retrieval and text generation with Large Language Models (LLMs).
+My areas of interest are representation learning, reinforcement learning, personalization, information retrieval and text generation with Large Language Models (LLMs).
 
 Before coming to Stanford, I have experience in Alexa, AWS AI teams.
 
